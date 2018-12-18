@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://itenki.github.io/2018/01/hello-world-again/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/about_me/</loc>
+    <lastmod>1991-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/1991/01/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>1991-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/hugo/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/lifesytle/</loc>
+    <lastmod>1991-01-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/lnmp/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/post/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/website/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/tags/wordpress/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itenki.github.io/</loc>
+    <lastmod>2018-01-04T23:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
