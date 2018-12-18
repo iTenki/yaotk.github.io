@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on itenki.tk - 在喧嚣世界里,做一个安静的美娘子.</title>
+    <link>https://itenki.github.io/tags/</link>
+    <description>Recent content in Tags on itenki.tk - 在喧嚣世界里,做一个安静的美娘子.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2018 23:39:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://itenki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://itenki.github.io/tags/hugo/</link>
+      <pubDate>Thu, 04 Jan 2018 23:39:58 +0800</pubDate>
+      
+      <guid>https://itenki.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifesytle</title>
+      <link>https://itenki.github.io/tags/lifesytle/</link>
+      <pubDate>Wed, 02 Jan 1991 00:00:00 +0800</pubDate>
+      
+      <guid>https://itenki.github.io/tags/lifesytle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lnmp</title>
+      <link>https://itenki.github.io/tags/lnmp/</link>
+      <pubDate>Thu, 04 Jan 2018 23:39:58 +0800</pubDate>
+      
+      <guid>https://itenki.github.io/tags/lnmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://itenki.github.io/tags/website/</link>
+      <pubDate>Thu, 04 Jan 2018 23:39:58 +0800</pubDate>
+      
+      <guid>https://itenki.github.io/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>https://itenki.github.io/tags/wordpress/</link>
+      <pubDate>Thu, 04 Jan 2018 23:39:58 +0800</pubDate>
+      
+      <guid>https://itenki.github.io/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
